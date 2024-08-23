@@ -4,8 +4,8 @@
 ##### 2022.07~2022.08 (5명)
 
 ## 🛠️ 사용 기술
-- **Languages:** PHP, CSS, MySQL
-- **Stack:** VScode
+- **Languages:** Python
+- **Stack:** VScode, jupyter notebook
 - **AI:** Neural Prophet, LSTM
 
 ## 📝 개발 내용
